@@ -1,12 +1,10 @@
-# About Me
+# Better Testing
 
-I'm a techno-creative with broad interest in generative art, cryptography, economics, and the nature of work.
+Code for articles about testing from https://daniel-crenna.medium.com
 
-My commercial expertise lies in financial, e-commerce, media streaming, and game software.
-
-I'm currently interested in human-centric device programming (EEG, ERG, et al.) and the advent of personal software.
-
- Site: https://danielcrenna.com
+Articles:
+=========
+(Logging in Integration Testing)[https://daniel-crenna.medium.com/logging-in-integration-testing-f55ad54c1fa1]
 
  # License
 
